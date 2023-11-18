@@ -1,0 +1,9 @@
+- La POO es un tipo de Paradigma.
+- Los paradigmas son las diferentes soluciones para un problema.
+- POO contiene Objetos, que tienen Funciones/Acciones (llamadas "Metodos") aplicables.
+- Cada objeto posee propiedades o atributos.
+- Tambien posee propiedasdes "pilares" siendo las mas importantes en la POO:
+1. Polimorfismo: Un objeto puede tomar multiples formas y posee un nucleo en comun.
+2. Herencia: Teniendo un nucleo en comun, se le aplican sus caracteristicas de esa clase llamada "padre", a otras "hijas" permitiendo heredarlas.
+3. Encapsulamiento: Los datos se protegen del exterior.
+4. Abstracción: Se ocultan los detalles internos.
